@@ -1,0 +1,9 @@
+C:\Users\user\Desktop\startVB\startVB\bin\Release\startVB.exe
+C:\Users\user\Desktop\startVB\startVB\bin\Release\startVB.pdb
+C:\Users\user\Desktop\startVB\startVB\bin\Release\startVB.xml
+C:\Users\user\Desktop\startVB\startVB\obj\x86\Release\startVB.firstVB.resources
+C:\Users\user\Desktop\startVB\startVB\obj\x86\Release\startVB.Resources.resources
+C:\Users\user\Desktop\startVB\startVB\obj\x86\Release\startVB.vbproj.GenerateResource.Cache
+C:\Users\user\Desktop\startVB\startVB\obj\x86\Release\startVB.exe
+C:\Users\user\Desktop\startVB\startVB\obj\x86\Release\startVB.xml
+C:\Users\user\Desktop\startVB\startVB\obj\x86\Release\startVB.pdb
