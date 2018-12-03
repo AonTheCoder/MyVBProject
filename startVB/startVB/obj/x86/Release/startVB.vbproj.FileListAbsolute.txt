@@ -7,3 +7,6 @@ C:\Users\user\Desktop\startVB\startVB\obj\x86\Release\startVB.vbproj.GenerateRes
 C:\Users\user\Desktop\startVB\startVB\obj\x86\Release\startVB.exe
 C:\Users\user\Desktop\startVB\startVB\obj\x86\Release\startVB.xml
 C:\Users\user\Desktop\startVB\startVB\obj\x86\Release\startVB.pdb
+D:\MyVBProject\startVB\startVB\obj\x86\Release\startVB.exe
+D:\MyVBProject\startVB\startVB\obj\x86\Release\startVB.xml
+D:\MyVBProject\startVB\startVB\obj\x86\Release\startVB.pdb

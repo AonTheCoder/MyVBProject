@@ -79,6 +79,12 @@
       <DependentUpon>firstVB.vb</DependentUpon>
       <SubType>Form</SubType>
     </Compile>
+    <Compile Include="fmLab2.Designer.vb">
+      <DependentUpon>fmLab2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="fmLab2.vb">
+      <SubType>Form</SubType>
+    </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
       <AutoGen>True</AutoGen>
